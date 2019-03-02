@@ -40,4 +40,4 @@ class ParkingLotControl
     void operator--();
     static int getTotalCar();
     string getCarId();
-} c; //two class obj created
+} c; //A class obj created
