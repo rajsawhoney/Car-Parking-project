@@ -1,11 +1,9 @@
-# Car Parking Lot Project
-                                                
-
+# Car Parking Lot
 
 ## About the project:
-This project is done at the completion of Object Oriented Programming Language Course i.e. C++ in order to test the coverage of the language’s basic syntax , different libraries available in C++,Class and object, operator overloading, file handling, exception handling, etc by the students.
+This project is done as a part of Object Oriented Programming Language Course i.e. C++ in order to test the coverage of the language’s basic syntax, different libraries available in C++, Concepts of Class & Object, Operator overloading, file handling, exception handling, etc.
 
-## Features of this Program:
+## Features:
 -	This program allows you to handle your car Parking Lot in the best possible way.
 -	Offers you to keep track of  all the required info of a car parked in your lot
 -	Keeps records of the info like Car Owner’s name,Car Id,entry date and time,exit date and time,and finally calculates the parking charge for you and also the bill the for you.
@@ -16,7 +14,7 @@ This project is done at the completion of Object Oriented Programming Language C
 -	This program is well secured by Login System so only the concerned personnel can interact with the Parking Data.
 -	Last but not least the code for this program is well documented. So there is no need to have any further guidelines for the program. But if by chance found anything tough any get comfortably, feel free to contact me.
 
-## Possible Enhancements:
+## Possible Enhancements(Limitations):
 -	The program is  unable to store the time structure data I.e System date and time in a File.
 -	The login system is yet to be handled by the file handling approach.
 -	Some particular syntax doesn’t work on Code::Blocks.
